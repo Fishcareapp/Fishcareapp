@@ -9,7 +9,7 @@ Elle est composé de plusieurs pages:
 
 
 Pour acceder à l'application il faut créer un projet avec ionic creator et remplacer le dossier www par le dossier donné. 
-Nous récoltons les données sur une BBD placée sur le serveur de notre Raspberry. 
+Nous récoltons les données depuis une Base de Donné placée sur le serveur de notre Raspberry. 
 Le code ne fonctionnera qu'avec l'adresse IP sur lequel est connecté notre Raspberry. 
 
 Le code se trouve dans le controller. 
